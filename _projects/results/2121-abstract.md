@@ -26,7 +26,6 @@ There are a number of barriers that potentially eligible LPRs may face which may
 
 We collaborated with USCIS to create an outreach letter and web page designed to encourage potentially eligible LPRs to submit a Form N-400 application. Each letter used positive language to encourage the individual to apply, provided a checklist of activities to make the process more manageable, highlighted many of the long-term benefits of becoming a U.S. citizen, and provided statistics showing the pass rates of the naturalization exams. The letter also referenced both the fee waiver process and existing USCIS resources available to connect applicants with free legal services. The letter included a QR code that took the reader to a web page that included the same contents of the letter in multiple languages, a link to file online, and a series of relevant resources available on the main uscis.gov website. Although all the information provided in the letter and web page is publicly available elsewhere, this proactive outreach was a new step that consolidated the information to make it easier to access. Both the letter and web page contents were available in English, Arabic, Chinese, French, Haitian Creole, Korean, Spanish, Tagalog, and Vietnamese.
 
-
 ## Evaluation design
 The outreach change was evaluated with an individual-level randomized control trial. USCIS identified 1,861,178 individuals potentially eligible to naturalize, as they had not yet submitted a Form N-400 application and had been LPRs for between six and nine years.<sup>9</sup>
 Of that sample, USCIS mailed identical letters to 300,000 randomly selected individuals between late October and early December 2023, stratified by an individual’s years as an LPR (6, 7, 8, or 9), class of admission (Employment, Family, Spouse, Humanitarian, or Parent), and region of birth (Mexico, China/India, Caribbean, Central/South America, or Other). The remaining 1,561,178 individuals in the control group were not sent the letter. USCIS worked to identify up-to-date addresses for the treatment group, and, in the case when a letter was returned with a forwarding address, they re-sent the letter.
@@ -55,19 +54,14 @@ Given that USCIS had not previously engaged in proactive outreach efforts toward
 
 
 ## Notes:
-1. Mani, A., Mullainathan S., Shafir, E., Zhao, J. (2013). Poverty impedes cognitive function. Science 341, 976–980.
-2.  Baker and Miller (2022). DHS Office of Immigration Statistics. Estimates of the Lawful Permanent Resident Population in the United States and the Subpopulation Eligible to Naturalize: 2022 https://www.dhs.gov/sites/default/files/2022-10/2022_0920
-_plcy_lawful_permenent_resident_population_estimate_2022
-_0.pdf
-3. U.S. Citizenship and Immigration Services. FYs 2023-2026 Strategic Plan (2022), https://www.uscis.gov/sites/default/files/
-document/reports/StrategicPlanFY23.pdf
-4. A number of potential barriers are raised in this 2021 U.S. Congressional Research Report on U.S. Naturalization Policy, https://crsreports.congress.gov/product/pdf/R/R43366.
-5. Individuals who are married to a U.S. citizen or who served in the military can apply sooner than five years, and some applicants who are long-term residents can receive exemptions to the exams. “Good Moral Character” is discussed in USCIS Policy Manual Volume 12, Part D, Chapter 9: https://www.uscis.gov/policy-manual/volume-12-part-d-
-chapter-9.
-6. Hotard, M., Lawrence, D., Laitin, D.D. et al. (2019). A low-cost information nudge increases citizenship application rates among low-income immigrants. Nat Hum Behav 3, 678–683. Hainmueller, J., Lawrence, D., Gest, J., Hotard, M., Koslowski, R., & Laitin, D. D. (2018). A randomized controlled design reveals barriers to citizenship for low-income immigrants. Proceedings of the National Academy of Sciences, 115(5), 939-944.
-7. Ibid.
-8. Madrian, B. C. (2014). Applying Insights from Behavioral Economics to Policy Design. Annual Review of Economics, 6 (Volume 6, 2014), 663-688.
+1. Mani, A., Mullainathan S., Shafir, E., Zhao, J. (2013). Poverty impedes cognitive function. <i>Science</i> 341, 976–980.
+2. Baker and Miller (2022). DHS Office of Immigration Statistics. <a class="usa-link usa-link--external" href="https://ohss.dhs.gov/sites/default/files/2023-12/2022_0920_plcy_lawful_permenent_resident_population_estimate_2022_0.pdf">Estimates of the Lawful Permanent Resident Population in the United States and the Subpopulation Eligible to Naturalize: 2022</a>. 
+3. U.S. Citizenship and Immigration Services. <a class="usa-link usa-link--external" href="https://www.uscis.gov/sites/default/files/document/reports/StrategicPlanFY23.pdf">FYs 2023-2026 Strategic Plan (2022).</a> 
+4. A number of potential barriers are raised in this <a class="usa-link usa-link--external" href="https://crsreports.congress.gov/product/pdf/R/R43366">2021 U.S. Congressional Research Report on U.S. Naturalization Policy</a>.
+5. Individuals who are married to a U.S. citizen or who served in the military can apply sooner than five years, and some applicants who are long-term residents can receive exemptions to the exams. “Good Moral Character” is discussed in <a class="usa-link usa-link--external" href="https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-9">USCIS Policy Manual Volume 12, Part D, Chapter 9</a>.
+6. Hotard, M., Lawrence, D., Laitin, D.D. et al. (2019). A low-cost information nudge increases citizenship application rates among low-income immigrants. Nat Hum Behav 3, 678–683. Hainmueller, J., Lawrence, D., Gest, J., Hotard, M., Koslowski, R., & Laitin, D. D. (2018). A randomized controlled design reveals barriers to citizenship for low-income immigrants. <i>Proceedings of the National Academy of Sciences</i>, 115(5), 939-944.
+7. <i>Ibid.</i>
+8. Madrian, B. C. (2014). Applying Insights from Behavioral Economics to Policy Design. <i>Annual Review of Economics</i>, 6 (Volume 6, 2014), 663-688.
 9. USCIS also removed additional individuals such as those with classes of admission protected from disclosure under 8 U.S.C. Section 1367, who were under the age of 18, and had no address or zip code. The entire list is available in the full report.
-10. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in a pre-analysis plan, which can be found at https://oes.gsa.gov/assets/analysis/2121-
-dhs-increasing-naturalization-analysis-plan-final.pdf.
+10. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in a pre-analysis plan, which can be found at https://oes.gsa.gov/assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf.
 11. The pre-analysis plan proposed to evaluate Form N-400 submissions six months after individuals received the letter, but staggered rollout and the lack of mailing dates in the control group required a fixed completion date. We chose June, as it was approximately six months after the last treatment group received their letter.
