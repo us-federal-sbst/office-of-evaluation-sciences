@@ -63,5 +63,6 @@ Given that USCIS had not previously engaged in proactive outreach efforts toward
 7. <i>Ibid.</i>
 8. Madrian, B. C. (2014). Applying Insights from Behavioral Economics to Policy Design. <i>Annual Review of Economics</i>, 6 (Volume 6, 2014), 663-688.
 9. USCIS also removed additional individuals such as those with classes of admission protected from disclosure under 8 U.S.C. Section 1367, who were under the age of 18, and had no address or zip code. The entire list is available in the full report.
-10. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in a pre-analysis plan, which can be found at https://oes.gsa.gov/assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf.
-11. The pre-analysis plan proposed to evaluate Form N-400 submissions six months after individuals received the letter, but staggered rollout and the lack of mailing dates in the control group required a fixed completion date. We chose June, as it was approximately six months after the last treatment group received their letter.
+10. Unless noted otherwise, all of the analysis reported in this abstract was prespecified in a pre-analysis plan, which can be found at
+ <a href="https://oes.gsa.gov/assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf">oes.gsa.gov</a>.
+12. The pre-analysis plan proposed to evaluate Form N-400 submissions six months after individuals received the letter, but staggered rollout and the lack of mailing dates in the control group required a fixed completion date. We chose June, as it was approximately six months after the last treatment group received their letter.
