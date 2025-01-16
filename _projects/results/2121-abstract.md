@@ -37,12 +37,12 @@ Form N-400 filing dates through June 2024 were used to compare application rates
 We found that individuals who received the new outreach letter were 1.01 percentage points (p < .001, 95% CI [0.0089, 0.0112]) more likely to submit a Form N-400 application by June 2024, which was approximately six to eight months after receiving their letter. Given that only 8.4% of the comparison group, who did not receive the new letter, submitted a Form N-400 during the same time, this translates into a 12% increase in submission rates over the baseline.
 
 <b>Figure 1.</b> LPRs who were sent a letter were more likely to submit a Form N-400
-<img src="{{ '/assets/img/project-images/2310-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing LPRs who were sent a letter were more likely to submit a Form N-400" width="1500">
+<img src="{{ '/assets/img/project-images/2121-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing LPRs who were sent a letter were more likely to submit a Form N-400" width="1500">
 
 We found that treatment effects were positive and statistically significant for each stratification group: years since LPR status, class of admission, and region of birth. Figure 2 shows that the largest treatment effects were for individuals whose class of admission to LPR was via spouse-sponsored or employment-sponsored processes, whose Form N-400 submissions increased approximately 1.4 percentage points. Individuals who classified via family, humanitarian, or parent class of admission exhibited smaller treatment effects from 0.6 to 0.9 percentage points. 
 
 <b>Figure 2.</b> LPRs who were admitted via employment or spouse classes of admission were more likely to respond to the letter
-<img src="{{ '/assets/img/project-images/2310-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing LPRs who were admitted via employment or spouse classes of admission were more likely to respond to the letter" width="1500">
+<img src="{{ '/assets/img/project-images/2121-fig-2.svg' | prepend: site.baseurl }}" alt="Bar chart showing LPRs who were admitted via employment or spouse classes of admission were more likely to respond to the letter" width="1500">
 
 We also found slightly larger treatment impacts for individuals born in Central and South America or Other regions, and smaller impacts for those born in Mexico, China, India, or the Caribbean. 
 One important question is whether the letter was effective across LPRs with varying degrees of resources. To examine this in the context of our evaluation, we examined whether the letter had a differential effect on online submissions and mail-based submissions, as well as whether it had a differential effect for LPRs paying the full naturalization application fee compared to those who file with a partial or full fee waiver due to financial hardship. 
