@@ -11,7 +11,7 @@ summary:
 
 ---
 <br>
-<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2310-decreasing-snap-denials-abstract.pdf" target="_blank">View the PDF Version</a>
+<a class="usa-button" href="https://oes.gsa.gov/assets/abstracts/2121-abstract.pdf" target="_blank">View the PDF Version</a>
 
 ## Key findings
 We found that mailing a new, informative letter to lawful permanent residents (LPRs) encouraging them to apply for U.S. citizenship increased naturalization application rates by 1.0 percentage point, over a baseline of 8.4 percent. We examined whether the letter had different impacts based on length of time since obtaining LPR status, region of birth, and class of admission (i.e., by what process an individual obtained LPR status). We found that every group increased submissions after receiving the letter, but observed the largest impacts for individuals who became LPRs through spousal or employer sponsorship, with the smallest increases for those born in the regions with the highest number of applicants (Mexico, China, India, and the Caribbean). The impact of the letter was greater for online submissions than mail-in submissions, and for those paying the full application fee compared to those filing with a fee waiver or reduced fee due to financial hardship. Overall, these results suggest that proactive informational outreach can significantly increase the number of LPRs applying for citizenship. However, consistent with existing literature on the bandwidth tax, LPRs in lower-income neighborhoods were less responsive to the intervention.<sup>1</sup>
