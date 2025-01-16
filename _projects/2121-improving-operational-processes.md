@@ -30,6 +30,9 @@ We evaluated the program change with an individual-level randomized control tria
 ## What did we learn?
 We found that this low-cost, scalable effort significantly increased LPRs’ applications for citizenship. Overall, individuals who received the new outreach letter were 1.01 percentage points (p < .001, 95% CI [0.0089, 0.0112]) more likely to submit a Form N-400 application by June 2024, approximately six to eight months after receiving their letter. This translates to an increase of approximately 3,000 additional Form N-400 submissions in the group who received the letter and may have increased overall submissions by 18,600 had we sent letters to the full sample.
 
+<b>Figure 1.</b> LPRs who were sent a letter were more likely to submit a Form N-400
+<img src="{{ '/assets/img/project-images/2121-fig-1.svg' | prepend: site.baseurl }}" alt="Bar chart showing LPRs who were sent a letter were more likely to submit a Form N-400" width="1500">
+
 Though effects were positive and statistically significant for each stratification group, the largest effects were for individuals whose class of admission to LPR was via spousal or employment-sponsored processes, whose Form N-400 submissions increased approximately 1.4 percentage points. Individuals who classified via parental, spousal, or humanitarian processes exhibited smaller treatment effects from 0.5 to 0.9 percentage points. Other federal agencies looking to increase participation rates in key programs could consider incorporating outreach designed to motivate the reader and consolidate disparate yet relevant pieces of information. 
 
 <b>Notes:</b>
