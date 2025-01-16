@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 18.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="7.500in" height="4.500in" viewBox="0 0 5400 3240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - coa_abstract</desc>
+	<rect x="0" y="0" width="5400" height="3240" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="0.00" y="0.00" width="5400.00" height="3240.00" style="fill:#FFFFFF"/>
+	<rect x="3.24" y="3.24" width="5393.52" height="3233.52" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="868.39" y="113.40" width="4418.21" height="2399.46" style="fill:#FFFFFF"/>
+	<rect x="871.63" y="116.64" width="4411.73" height="2392.98" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="939.60" y="623.03" width="326.36" height="1818.62" style="fill:#19677F"/>
+	<rect x="942.84" y="626.27" width="319.88" height="1812.14" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="1298.70" y="406.69" width="326.36" height="2034.96" style="fill:#B72929"/>
+	<rect x="1301.94" y="409.93" width="319.88" height="2028.48" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<rect x="1837.18" y="1160.83" width="326.36" height="1280.81" style="fill:#19677F"/>
+	<rect x="1840.42" y="1164.07" width="319.88" height="1274.33" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="2196.28" y="1027.52" width="326.36" height="1414.13" style="fill:#B72929"/>
+	<rect x="2199.52" y="1030.76" width="319.88" height="1407.65" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<rect x="2734.76" y="843.58" width="326.36" height="1598.06" style="fill:#19677F"/>
+	<rect x="2738.00" y="846.82" width="319.88" height="1591.58" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="3093.86" y="759.88" width="326.36" height="1681.76" style="fill:#B72929"/>
+	<rect x="3097.10" y="763.12" width="319.88" height="1675.28" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<rect x="3632.34" y="1708.93" width="326.36" height="732.71" style="fill:#19677F"/>
+	<rect x="3635.58" y="1712.17" width="319.88" height="726.23" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="3991.44" y="1598.06" width="326.36" height="843.58" style="fill:#B72929"/>
+	<rect x="3994.68" y="1601.30" width="319.88" height="837.10" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<rect x="4529.93" y="1154.25" width="326.36" height="1287.39" style="fill:#19677F"/>
+	<rect x="4533.17" y="1157.49" width="319.88" height="1280.91" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="4888.86" y="934.88" width="326.53" height="1506.77" style="fill:#B72929"/>
+	<rect x="4892.10" y="938.12" width="320.05" height="1500.29" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<text x="1102.78" y="508.44" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">12.1%</text>
+	<text x="1461.88" y="240.13" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">13.5%**</text>
+	<text x="2000.36" y="1046.25" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">8.5%</text>
+	<text x="2359.46" y="881.55" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">9.4%**</text>
+	<text x="2897.94" y="729.00" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">10.6%</text>
+	<text x="3257.04" y="600.75" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">11.2%**</text>
+	<text x="3795.53" y="1594.35" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">4.9%</text>
+	<text x="4154.63" y="1448.55" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">5.6%**</text>
+	<text x="4693.11" y="1039.67" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">8.6%</text>
+	<text x="5052.21" y="787.22" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">10.0%**</text>
+	<line x1="1461.88" y1="458.83" x2="1461.88" y2="354.71" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1445.01" y1="354.71" x2="1478.76" y2="354.71" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="1445.01" y1="458.83" x2="1478.76" y2="458.83" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="2359.46" y1="1058.91" x2="2359.46" y2="996.13" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="2342.59" y1="996.13" x2="2376.34" y2="996.13" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="2342.59" y1="1058.91" x2="2376.34" y2="1058.91" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3257.04" y1="804.60" x2="3257.04" y2="715.33" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3240.17" y1="715.33" x2="3273.92" y2="715.33" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="3240.17" y1="804.60" x2="3273.92" y2="804.60" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="4154.63" y1="1632.83" x2="4154.63" y2="1563.13" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="4137.75" y1="1563.13" x2="4171.50" y2="1563.13" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="4137.75" y1="1632.83" x2="4171.50" y2="1632.83" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="5052.21" y1="967.95" x2="5052.21" y2="901.80" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="5035.33" y1="901.80" x2="5069.08" y2="901.80" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="5035.33" y1="967.95" x2="5069.08" y2="967.95" stroke-linecap="round" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="868.39" y1="2512.86" x2="868.39" y2="113.40" style="stroke:#000000;stroke-width:6.48"/>
+	<line x1="868.39" y1="2441.64" x2="823.33" y2="2441.64" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="2484.98" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">0%</text>
+	<line x1="868.39" y1="1990.24" x2="823.33" y2="1990.24" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="2033.57" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">3%</text>
+	<line x1="868.39" y1="1538.83" x2="823.33" y2="1538.83" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="1582.17" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">6%</text>
+	<line x1="868.39" y1="1087.43" x2="823.33" y2="1087.43" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="1130.76" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">9%</text>
+	<line x1="868.39" y1="636.02" x2="823.33" y2="636.02" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="679.35" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">12%</text>
+	<line x1="868.39" y1="184.61" x2="823.33" y2="184.61" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="800.89" y="227.95" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="end">15%</text>
+	<text x="214.55" y="1313.21" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" transform="rotate(-90 214.55,1313.21)" text-anchor="middle">Form N-400 submitted</text>
+	<text x="327.11" y="1313.21" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" transform="rotate(-90 327.11,1313.21)" text-anchor="middle">(95% confidence interval)</text>
+	<line x1="868.39" y1="2512.86" x2="5286.60" y2="2512.86" style="stroke:#000000;stroke-width:6.48"/>
+	<text x="1282.33" y="2614.17" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Employment</text>
+	<text x="2179.91" y="2614.17" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Family</text>
+	<text x="3077.49" y="2614.17" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Humanitarian</text>
+	<text x="3975.08" y="2614.17" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Parent</text>
+	<text x="4872.66" y="2614.17" style="font-family:'Helvetica';font-size:112.56px;fill:#000000" text-anchor="middle">Spouse</text>
+	<text x="3077.49" y="2779.41" style="font-family:'Helvetica';font-size:123.69px;fill:#000000" text-anchor="middle">Class of Admission to LPR status</text>
+	<rect x="907.20" y="2878.03" width="2315.76" height="209.76" style="fill:#FFFFFF"/>
+	<rect x="910.44" y="2881.27" width="2309.28" height="203.28" style="fill:none;stroke:#FFFFFF;stroke-width:6.48"/>
+	<rect x="955.80" y="2926.63" width="259.20" height="112.56" style="fill:#19677F"/>
+	<rect x="959.04" y="2929.87" width="252.72" height="106.08" style="fill:none;stroke:#19677F;stroke-width:6.48"/>
+	<rect x="2135.70" y="2926.63" width="259.20" height="112.56" style="fill:#B72929"/>
+	<rect x="2138.94" y="2929.87" width="252.72" height="106.08" style="fill:none;stroke:#B72929;stroke-width:6.48"/>
+	<text x="1282.50" y="3022.26" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">No letter sent</text>
+	<text x="2462.40" y="3022.26" style="font-family:'Helvetica';font-size:112.56px;fill:#000000">Letter sent</text>
+</svg>
