@@ -10,7 +10,7 @@ image-credit: https://unsplash.com/photos/fYqQBr0EzkA
 analysis-plan: /assets/analysis/2121-dhs-increasing-naturalization-analysis-plan-final.pdf
 abstract-web: /results/improving-processes-uscis/
 year: 2025
-domain: Communications
+domain: Government Operations
 agency: Homeland Security
 type: Impact evaluation of program change
 status: Complete
